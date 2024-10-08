@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  margin-top: 20px;
+  background: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  text-align: center;
+}
+
+.title {
+  color: #333;
+  margin-bottom: 20px;
+}
